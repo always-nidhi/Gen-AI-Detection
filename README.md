@@ -1,6 +1,6 @@
 # Generative AI Detection
 
-![demo image](<https://github.com/ankitsharma-tech/Generative-AI-Detection/blob/main/Screenshot%20(366).png>)
+![demo image](<https://github.com/always-nidhi/Gen-AI-Detection/blob/main/Screenshot%20(366).png>)
 
 ## Overview
 
