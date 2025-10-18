@@ -3,7 +3,6 @@
 ![Demo](https://github.com/always-nidhi/Gen-AI-Detection/raw/main/Screenshot%20(366).png)  
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)  
 ![React](https://img.shields.io/badge/ReactJS-17.0-blue?logo=react)  
-![License](https://img.shields.io/badge/License-MIT-green)  
 
 Detects whether a text is **human-written** or **AI-generated** using GPT-2, with a **ReactJS frontend** and **Python backend**. Developed for the **Voight-Kampff Generative AI Authorship Verification 2024** challenge.
 
@@ -63,6 +62,9 @@ python app.py
 
 # Start frontend server
 npm start
+
+
+---
 
 ## Usage
 1. Open your browser at `http://localhost:3000`
