@@ -62,30 +62,3 @@ python app.py
 
 # Start frontend server
 npm start
-
-
----
-
-## Usage
-1. Open your browser at `http://localhost:3000`
-2. Enter or upload text
-3. Click **Analyse** to see if the text is AI-generated or human-written
-
----
-
-## Data
-- Uses a dataset of **human-written** and **AI-generated** texts
-- Texts are analyzed to compute **Perplexity** and **Burstiness** scores
-
----
-
-## Evaluation Metrics
-- **Perplexity**: Measures how well GPT-2 predicts text. Lower perplexity usually indicates human-written text, while higher perplexity suggests AI-generated text.
-- **Burstiness**: Measures variation in perplexity across sentences. Higher burstiness often indicates AI-generated content.
-
----
-
-## Future Improvements
-- Add support for multiple AI models (e.g., GPT-3, LLaMA)
-- Improve frontend with drag-and-drop text upload
-- Provide visualizations of perplexity and burstiness
